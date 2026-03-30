@@ -105,7 +105,6 @@ Input Text → Tokenization → Embeddings → Transformer Encoder Layers → Ou
 - Prajwal Malegavi  
 - Shreya Sharma  
 - Dr. Risil Chhatrala  
-*Project developed as part of a team during undergraduate studies*
 ---
 
 ## 📚 References
